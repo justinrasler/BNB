@@ -22,11 +22,11 @@ Open http://localhost:3333 with your browser to see the result.
 I took on this project to get a better understanding of next.js and learn sanity.
 Some of the technologies and methods used were:
 
-Content Management Systems
-Geolocation
-Google Maps API
-Clustering Markers
-Next.js
-ServerSideProps
-Sanity SDK
-React Hooks
+Content Management Systems,
+Geolocation,
+Google Maps API,
+Clustering Markers,
+Next.js,
+ServerSideProps,
+Sanity SDK,
+React Hooks,
