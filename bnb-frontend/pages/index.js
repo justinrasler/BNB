@@ -22,7 +22,7 @@ const Home = ({ properties }) => {
                     </p>
                     <h3>{property.title}</h3>
                     <h3>
-                      <b>£{property.pricePerNight}/per Night</b>
+                      <b>${property.pricePerNight}/per Night</b>
                     </h3>
                   </div>
                 </Link>
